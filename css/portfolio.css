@@ -1,0 +1,30 @@
+.bk_porfolio-container {
+	background: #f6f6f6;
+	font-size: 0;
+	padding: 0 50px 50px 50px;
+	text-align: center;
+}
+.bk_porfolio-container:after {
+	content: "";
+}
+.bk_portfolio-column {
+	padding-top: 10px;
+	text-align: center;
+	border: 2px solid;
+	display: inline-block;
+	width: 18%;
+	height: 150px;
+	margin: 10px;
+	vertical-align: top;
+}
+
+.bk_portfolio-percent {
+	color: #213235 !important;
+    font-family: 'Dosis', sans-serif ;
+	font-size: 50px;
+}
+.programming {
+	text-transform: uppercase;
+	font-size: 20px;
+	color: grey;
+}

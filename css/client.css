@@ -1,0 +1,19 @@
+.bk_client-container {
+	padding-bottom: 50px;
+	text-align: center;
+	font-size: 0;
+}
+.bk_client-container:after {
+	content: "";
+}
+.bk_client-column {
+    padding-top: 50px;
+	display: inline-block;
+	width: 20%;
+	height: 200px;
+	vertical-align: top;
+}
+.bk_client-image {
+	width: 120px;
+    height: 92px;
+}

@@ -1,0 +1,204 @@
+.bk_business_card_large-container {
+	max-width: 1100px;
+	margin: auto;
+}
+.bk_business_card-first_section {
+	display: inline-block;
+	vertical-align: top;
+	width: 50%;
+	margin-top: 50px;
+	text-align: left;
+}
+.bk_business_card-first_section img{
+	width: 100%;
+	text-align: center !important;
+	height: auto;
+}
+.bk_business_card-first_text {
+	margin-bottom: 50px;
+	padding: 30px 0 0 30px;
+	width: 300px;
+}
+.bk_business_card-first_text h1 {
+	padding-bottom: 20px;
+	color: rgb(61, 204, 218) !important;
+	font-weight: 600;
+}
+.bk_business_card-first_text h1:after {
+	content: "__";
+	display: block;
+}
+.bk_business_card-first_text h5 {
+	padding-left: 20px;
+	text-transform: unset !important;
+	font-weight: 600 !important;
+}
+.bk_business_card-first_text p {
+	padding-left: 20px;
+}
+.bk_business_card-first_text ul li {
+	margin-left: 35px;
+	font-size: 15px;
+	color: grey;
+}
+.bk_business_card-first_p {
+	background: rgb(61, 204, 218);
+	color: white !important;
+	padding-left: 10px;
+}
+.bk_business_card-second_section {
+	font-size: 0;
+	text-align: center;
+}
+.bk_business_card-second_section:after {
+	content: "";
+}
+.bk_business_card-second_sec-col {
+	padding: 10px;
+	display: inline-block;
+	vertical-align: top;
+	width: 25%;
+}
+.bk_business_card-second_sec-col h5 {
+	padding-top: 15px; 
+	font-weight: 600;
+	text-transform: unset !important;
+}
+.bk_business_card-second_sec-col img{
+	width: 100%;
+}
+.bk_business_card-second_sec {
+	padding: 0 30px;
+}
+.bk_business_card-size_section {
+	text-align: left;
+	padding: 30px;
+	display: inline-block;
+	vertical-align: top;
+	width: 50%;
+}
+.image {
+	text-align: center;
+}
+.bk_button-service {
+	text-align: center !important;
+}
+.bk_business_card-size_section img {
+	width: 80%;
+}
+.bk_business_card-size_section h5 {
+	text-align: left;
+}
+.bk_business_card-size_section ul li{
+	text-align: left;
+	margin-left: 30px;
+	font-size: 15px;
+}
+.bk_business_card-second_sec-part h4 {
+	color: rgb(61, 204, 218) !important;
+	font-weight: 600;
+}
+.bk_business_card-size_border {
+	text-align: center;
+	border: 5px solid;
+	width: 336px;
+	height: 192px;
+}
+.bk_business_card-process {
+	margin-top: 50px;
+}
+.bk_business_card-process h3 {
+	font-weight: 600;
+    color: #3dccda;
+	padding: 0 0 30px 0 ;
+	text-align: center !important;
+}
+.bk_business_card-process h5 {
+	font-weight: 600 !important;
+	text-transform: unset !important;
+}
+.bk_business_card-process p {
+	font-size: 15px;
+}
+.bk_business_card-process ul {
+
+}
+.bk_business_card-process ul li {
+	height: 180px;
+	border-right: 1px solid;
+	vertical-align: top;
+	width: 300px;
+	padding: 0 30px;
+	display: inline-block;
+}
+.bk_business_card-process_li {
+	border-right: unset !important;
+}
+.bk_business_card-second_sec-part {
+    margin-top: 50px;
+    padding-top: 30px;
+	background: white;
+}
+/*brief*/
+.bk_business_card-brief_text {
+	width: 100% !important;
+}
+.bk_business_card-form-container {
+	font-size: 0;
+	text-align: justify;
+}
+.bk_business_card-form-container:after {
+	content: "";
+}
+.bk_business_card-form-col-3, .bk_business_card-form-col-9 {
+	padding: 0 30px 0 30px;
+	margin: 50px 0 50px 0;
+	display: inline-block;
+	vertical-align: top;
+}
+.bk_business_card-form-col-3 {
+	width: 30%;
+}
+.bk_business_card-form-col-3 h3 {
+	text-transform: unset !important;
+	font-weight: 600;
+}
+.bk_business_card-form-col-9 {
+ 	width: 70%;
+}
+.bk_business_card-form-col-9 h5 {
+	font-weight: 600;
+ 	text-transform: unset !important;
+}
+.bk_business_card-form-col-9 form input {
+ 	margin-left: 0!important;
+ 	background: white;
+ 	width: 100%;
+ 	border: 4px solid grey;
+  	font-size: 15px;
+  	border-radius: 4px;
+}
+.choose_file {
+	margin: 0 !important;
+	border: unset;
+	font-size: 15px;
+}
+.bk_business_card-form-col-9 select {
+ 	width: 100%;
+ 	margin-bottom: 15px;
+ 	border: 4px solid grey;
+  	font-size: 15px;
+  	border-radius: 4px;
+  	color: grey;
+  	padding: 4px 5px 7px 9px;
+}
+.bk_business_card-form-col-9 textarea {
+ 	width: 100%;
+ 	min-height: 100px;
+ 	margin-bottom: 15px;
+ 	border: 4px solid grey;
+  	font-size: 15px;
+  	border-radius: 4px;
+  	color: grey;
+  	padding: 4px 5px 7px 9px;
+}

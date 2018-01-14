@@ -1,0 +1,17 @@
+
+.photography_gallery-container {
+	font-size: 20px;
+	text-align: justify;
+}
+.photography_gallery-container:after {
+	content: "";
+}
+.photography_gallery-column {
+	width: 31%;
+	display: inline-block;
+	vertical-align: top;
+}
+.photography_gallery-column img{
+	width: 100%;
+	height: 80px;
+}

@@ -1,0 +1,37 @@
+
+.bk_blog_parent_title {
+	padding: 20px;
+	text-align: center;
+}
+.bk_blog-row {
+	text-align: justify;
+	font-size: 0;
+}
+.bk_blog-row::after {
+	content: "";
+}
+.bk_blog-column {
+	display: inline-block;
+	width: 50%;
+}
+.bk_blog-text {
+	padding: 20px;
+}
+.bk_blog-header {
+	text-align: center;
+}
+.bk_blog-rotate_bg {
+	transform: skewX(-60deg);
+	width: 45%;
+}
+.bk_blog-title {
+	text-transform: unset;
+}
+.bk_blog-detail {
+	background: white;
+    padding: 15px 40px 15px 40px;
+    box-shadow: 4px 3px 13px 0px;
+}
+.bk_blog-image {
+	width: 100%;
+}

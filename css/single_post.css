@@ -1,0 +1,15 @@
+.bk_single-thumbnail {
+	text-align: center;
+}
+.comment_here {
+	display: none !important;
+}
+
+.bk_single-thumbnail h1{
+	font-weight: 600;
+}
+.bk_single-content {
+	    font-family: 'Barlow Semi Condensed', sans-serif;
+	text-align: left;
+	font-size: 17px;
+}

@@ -1,0 +1,67 @@
+
+.bk_contact-container {
+	margin: 50px 0 50px 0;
+	font-size: 0;
+}
+.bk_contact-container:after {
+	content: "";
+}
+.bk_contact-col-8 {
+	padding: 30px;
+	background: white;
+	display: inline-block;
+	vertical-align: top;
+	text-align: left;
+	width: 65%;
+}
+.bk_contact-col-4 {
+	padding: 30px;
+	height: 479px;
+	background: rgba(33, 50, 53 ,1);
+	display: inline-block;
+	vertical-align: top;
+	width: 35%;
+}
+.bk_contact-col-4 h5 {
+	margin-top: 40px;
+	color: white !important;
+	font-weight: 600;
+}
+.bk_contact-col-4 h6 {
+	margin: 50px 20px;
+	color: white;
+	text-transform: unset !important;
+}
+.bk_contact-icon {
+	margin-left: 15px;
+}
+.bk_contact-icon svg {
+	margin: 0 5px;
+	fill: currentColor;
+	color: white;
+}
+.material-icons {
+	padding-right: 15px;
+}
+.bk_contact-col-8 h4 {
+	font-weight: 600;
+}
+.bk_contact-col-8 input {
+
+	border-radius: 3px;
+	border: 1px solid #ececec;
+	margin-top: 15px;
+	width: 100%;
+	padding: 10px 0 10px 15px;
+	font-size: 15px;
+
+}
+.bk_contact-col-8 textarea {
+	border-radius: 3px;
+	border: 1px solid #ececec;
+	margin-top: 15px;
+	margin-bottom: 50px;
+	font-size: 15px;
+	width: 100%;
+	padding: 5px 0 50px 15px;
+}

@@ -1,0 +1,157 @@
+.bk_home_bg-img {
+	background-position: center center;
+	background-size: cover;
+	width: 100%;
+	background-image: url("../img/sjs-web-design-computer.jpg");
+}
+.bk_home_bg-color {
+	display: table;
+	width: 100%;
+	height: 668px;
+	background: rgba(33, 50, 53 ,0.7);
+}
+.bk_home_bg-text {
+	padding: 15px;
+	vertical-align: middle;
+	display: table-cell;
+	text-align: center;
+}
+.bk_home_bg-text h2 {	
+	color: #f6f6f6 !important;
+	font-weight: 600;
+	text-transform: uppercase;
+
+}
+.bk_home_bg-text p {	
+	color: #f6f6f6 !important;
+}
+.bk_home_bg-button {
+	margin: 0 5px;
+}
+.bk_home_large-con {
+	max-width: 1100px; 
+	margin: auto;
+	font-size: 0;
+	text-align: justify;
+}
+.bk_home_large-con:after {
+	content: "";
+}
+.bk_home_large-col-3, .bk_home_large-col-9 {
+	display: inline-block;
+	vertical-align: top;
+}
+.bk_home_large-col-3 {
+	text-align: left !important;
+	margin-top: 50px;
+	width: 20%;
+}
+.bk_home_large-col-3 h4 {
+
+	font-weight: 600;
+
+}
+.bk_home_large-col-3 h6 {
+	padding-top: 15px;
+	font-weight: 600;
+	text-transform: unset !important;
+
+}
+.bk_home_large-col-3 h5 {
+	padding-top: 15px;
+	font-weight: 600;
+
+}
+.bk_home_large-col-3 ul {
+	
+}
+.bk_home_large-col-3 ul li {
+	font-size: 17px;
+	list-style: none;
+}
+.bk_home_large-col-3 ul li a{
+	color: #213235;
+}
+.discount_image_sidebar {
+	padding-right: 15px;
+}
+.discount_image_sidebar img {
+	width: 100%;
+}
+
+.bk_home_large-col-9 {
+	width: 80%;
+}
+.menu_main-container {
+	background: rgba(33, 50, 53 ,1);
+	width: 100%;
+} 
+.menu_main-container hr {
+	background: white;
+	margin: 0;
+}
+.header_menu-container {
+	text-align: left;
+	max-width: 1100px;
+	margin: auto;
+}
+
+.bk_header-logo {
+	height: 50px;
+	max-width: 1100px;
+	margin: auto;
+	z-index: 1000;
+}
+.bk_header-logo:after {
+	content: "";
+}
+
+.bk_header-logo h1 {
+	margin-left: 15px;
+	font-weight: 600;
+	text-align: left;
+	color: #f6f6f6!important;
+} 
+.bk_header-logo h6 {
+
+	border-bottom: 1px solid white;
+	padding-bottom: 3px;
+	margin-top: 12px;
+	display: inline-block;
+	vertical-align: top;
+	font-weight: 600;
+	text-align: right !important;
+	color: #f6f6f6!important;
+} 
+.bk_header-logo-col {
+	vertical-align: top;
+	display: inline-block;
+	width: 45%;
+}
+.bk_header-logo-col1 {
+	vertical-align: top;
+	display: inline-block;
+	width: 45%;
+	text-align: right !important;
+}
+.menu-menu-container ul {
+	margin: auto;
+	max-width: 1100px;
+}
+.menu-menu-container ul li {
+	
+	list-style: none;
+	padding: 15px 10px;
+	font-size: 12px !important;
+	text-transform: uppercase;
+	display: inline-block !important;
+}
+.menu-menu-container ul li a {
+	font-family: 'Montserrat', sans-serif !important;
+	color: #f6f6f6;
+	text-decoration: none;
+}
+.menu-menu-container hr {
+	margin: 0;
+	background: white !important;
+}

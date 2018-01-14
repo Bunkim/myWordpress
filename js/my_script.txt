@@ -1,0 +1,283 @@
+
+			<?php get_header(); ?>
+<div class="bk_home_bg-img">
+	<img src="<?php echo get_template_directory_uri(); ?>/img/bk_header-image.jpg">
+</div>
+<!-- about -->
+<div class="bk_home_large-con">
+<div class="bk_about-container">
+	<div class="bk_about-column">
+		<div class="bk_about-image_border"></div>
+		<div class="bk_about-image">
+			<img class="bk_about-image_child" src="<?php echo get_template_directory_uri(); ?>/img/profile.jpg">
+		</div>
+	</div>
+	<div class="bk_about-column">
+		<div class="bk_about-rotate_bg"></div>
+		<div class="bk_about-text">
+			<div class="bk_about-title">
+				<h4>Who We are?</h4>
+				<hr>
+			</div>
+			<div class="bk_about-detail">
+				<p>K Design is a design website which will provide you logo, business card and web design services with quality and creative designers. </p>
+				<p>We price ourselve as qaulity(not quantity). Everyone can start connecting with us NOW. </p>
+				<p>Do you want to start your project here?</p>
+			</div>
+			<a href="http://localhost/my_portfolio/blog/"><button class="bk_button">Know more</button></a>
+		</div>
+	</div>
+</div>
+<!-- service -->
+<div class="bk_service-container">
+	<div class="bk_about-title bk_service-title">
+		<h4>What WE do?</h4>	
+		<hr>	
+	</div>
+	<div class="bk_service-column bk_service-first_column">
+		<div class="bk_service-logo">
+			<img class="bk_service-logo_child" src="<?php echo get_template_directory_uri(); ?>/img/blog.png">
+			
+			<div class="bk_service-text">
+				<div class="bk_service-child_title">
+					WEB DESIGN
+				</div>
+				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.</p>
+			</div>
+
+		</div>
+	</div>
+	<div class="bk_service-column">
+		<div class="bk_service-logo">
+			<img class="bk_service-logo_child" src="<?php echo get_template_directory_uri(); ?>/img/content.png">
+			
+			<div class="bk_service-text">
+				<div class="bk_service-child_title">
+					Graphic Design
+				</div>
+				<p>Always schedule at least one service post for every conference or industry event you or a member of your organization attends. It’s core cyclical content.</p>
+			</div>
+		</div>
+	</div>
+	<div class="bk_service-column bk_service-thrid_column">
+		<div class="bk_service-logo">
+			<img class="bk_service-logo_child" src="<?php echo get_template_directory_uri(); ?>/img/photography.png">
+			
+			<div class="bk_service-text">
+				<div class="bk_service-child_title">
+					digital photography
+				</div>
+				<p>Always schedule at least one service post for every conference or industry event you or a member of your organization attends. It’s core cyclical content.</p>
+			</div>
+		</div>
+	</div>
+	<div class="bk_service-btn_parent">
+		<button class="bk_button">Know More</button>
+	</div>
+</div>
+<!-- Project -->
+
+<!-- blog -->
+<!-- <div class="bk_blog-panel">
+	<div class="bk_about-title bk_service-title">
+		<h1>My Every Activities</h1>		
+	</div>
+	<div class="bk_blog-post_panel  box_shadow">
+		<div class="bk_blog-post_column">
+			<img src="<?php echo get_template_directory_uri(); ?>/img/work_img2.jpg">
+			<div class="bk_post_title">
+				My first time of climbing mountain
+			</div>
+			<p class="bk_post_excerpt">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.</p>
+			<button class="bk_button">View Post</button>
+		</div>
+		<div class="bk_blog-post_column">
+			<img src="<?php echo get_template_directory_uri(); ?>/img/work_img2.jpg">
+			<div class="bk_post_title">
+				My first time of climbing mountain
+			</div>
+			<p class="bk_post_excerpt">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.</p>
+			<button class="bk_button">View Post</button>
+		</div>
+		<div class="bk_blog-post_column">
+			<img src="<?php echo get_template_directory_uri(); ?>/img/work_img2.jpg">
+			<div class="bk_post_title">
+				My first time of climbing mountain
+			</div>
+			<p class="bk_post_excerpt">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.</p>
+			<button class="bk_button">View Post</button>
+		</div>
+	</div>
+</div> -->
+<!-- Project -->
+<div class="bk_project-container">
+	<div class="bk_project-column bk_project-first_column">
+		<div class="bk_project-title">
+			<h4>RECENT PROJECTS</h4>
+				<div class="bk_project-text">
+				<p>Creativity has been on a downward spiral in many segments of society as a result of profound information overload. We can call up information on almost any topic with a few clicks of the keyboard.</p>
+				<p>Creativity has been on a downward spiral in many segments of society as a result of profound information overload. We can call up information on almost any topic with a few clicks of the keyboard.</p>
+			</div>
+			<button class="bk_button">Read More</button>
+		</div>
+	</div>
+	<div class="bk_project-column bk_project-second_column">
+		<div class="bk_project-box">
+		 <div class="bk_project-box_hover">
+		 	 <img src="<?php echo get_template_directory_uri(); ?>/img/work_img7.jpg" class="image">
+			  <div class="overlay">
+			    <div class="bk_protect_hover">
+			    	<div class=" bk_hover_title">Web Design</div>
+			    </div>
+			  </div>
+		 </div>
+		</div>
+		<div class="bk_project-box">
+		 <div class="bk_project-box_hover">
+		 	 <img src="<?php echo get_template_directory_uri(); ?>/img/work_img7.jpg" class="image">
+			  <div class="overlay">
+			    <div class="bk_protect_hover">
+			    	<div class=" bk_hover_title">Business Card</div>
+			    </div>
+			  </div>
+		 </div>
+		</div>
+		<div class="bk_project-box">
+		 <div class="bk_project-box_hover">
+		 	 <img src="<?php echo get_template_directory_uri(); ?>/img/work_img7.jpg" class="image">
+			  <div class="overlay">
+			    <div class="bk_protect_hover">
+			    	<div class=" bk_hover_title">Logo Desgin</div>
+			    </div>
+			  </div>
+		 </div>
+		</div>
+		<div class="bk_project-box">
+		 <div class="bk_project-box_hover">
+		 	 <img src="<?php echo get_template_directory_uri(); ?>/img/work_img7.jpg" class="image">
+			  <div class="overlay">
+			    <div class="bk_protect_hover">
+			    	<div class=" bk_hover_title">Photography</div>
+			    </div>
+			  </div>
+		 </div>
+		</div>
+	</div>
+
+</div>
+<!-- Porfolio -->
+
+<div class="bk_porfolio-container">
+	<div class="bk_about-title bk_service-title">
+		<h4>Portfolio</h4>
+		<hr>		
+	</div>
+	<div class="bk_portfolio-column">
+		<div class="bk_portfolio-percent">
+			40%
+		</div>
+		<div class="programming">
+			html
+		</div>
+	</div>
+	<div class="bk_portfolio-column">
+		<div class="bk_portfolio-percent">
+			40%
+		</div>
+		<div class="programming">
+			css
+		</div>
+	</div>
+	<div class="bk_portfolio-column">
+		<div class="bk_portfolio-percent">
+			0.0%
+		</div>
+		<div class="programming">
+			php
+		</div>
+	</div>
+	<div class="bk_portfolio-column">
+		<div class="bk_portfolio-percent">
+			0.0%
+		</div>
+		<div class="programming">
+			javascript
+		</div>
+	</div>
+</div>
+
+<!-- client -->
+<div class="bk_client-container">
+	<div class="bk_about-title bk_service-title">
+		<h4>clients</h4>
+		<hr>
+	</div>
+	<div class="bk_client-column">
+		<img class="bk_client-image" src="<?php echo get_template_directory_uri(); ?>/img/Batman_Logo_04.png">
+		<div class="bk_service-child_title">
+			Batman shop
+		</div>
+	</div>
+	<div class="bk_client-column">
+		<img class="bk_client-image" src="<?php echo get_template_directory_uri(); ?>/img/Solr_Logo_on_orange.png">
+		<div class="bk_service-child_title">
+			Via cafe
+		</div>
+	</div>
+	<div class="bk_client-column">
+		<img class="bk_client-image" src="<?php echo get_template_directory_uri(); ?>/img/Fresh-Design-Logo-Png-17-With-Additional-logo-designs-with-Design-Logo-Png.jpg">
+		<div class="bk_service-child_title">
+			Jai.com
+		</div>
+	</div>
+	<div class="bk_client-column">
+		<img class="bk_client-image" src="<?php echo get_template_directory_uri(); ?>/img/Galacticrepublic_logo.png">
+		<div class="bk_service-child_title">
+			Orangemall
+		</div>
+	</div>
+</div>
+
+<!-- <div class="recent_post_home-con">
+	<div class="bk_about-title bk_service-title">
+		<h4>lates posts</h4>
+		<hr>		
+	</div>
+	<?php
+		$args = array( 'numberposts' => 6, 'order'=> 'ASC', 'orderby' => 'title' );
+		$postslist = get_posts( $args );
+		foreach ($postslist as $post) :  setup_postdata($post);
+	?>
+	<div class="recent_post_home-col">
+		<div class="home_postImage">
+			<?php echo get_the_post_thumbnail(); ?>
+				
+		</div>
+		<div class="bk_blog-first_title">
+				<?php the_title('<h4>'.'<a href="' . esc_url( get_permalink() ) . '">', '</a>'.'</h4>'); ?>
+			<div class="bk_excerpt_first">
+				<?php echo get_excerpt(); ?> 
+			</div>
+					
+		</div>
+	</div>
+	<?php endforeach; ?>
+	<a href="http://localhost/my_portfolio/blog"><button class="bk_button">View Blog</button></a>
+</div> -->
+</div>
+<div class="goole_map">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d15637.911775903742!2d104.88632805!3d11.517532999999998!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2skh!4v1512646060394" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+
+<?php get_footer(); ?>
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+
+}
+</script>

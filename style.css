@@ -1,0 +1,30 @@
+/*
+Theme Name: Twenty Seventeen
+Theme URI: https://wordpress.org/themes/twentyseventeen/
+Author: the WordPress team
+Author URI: https://wordpress.org/
+Description: i bring to you with a good site.
+*/
+@import 'css/detail_service';
+@import 'css/contact';
+@import 'css/photo_category';
+@import 'css/recent_home_post';
+@import 'css/sidebar';
+@import 'css/header';
+@import 'css/about';
+@import 'css/service';
+@import 'css/project';
+@import 'css/blog';
+@import 'css/blog_post';
+@import 'css/client';
+@import 'css/portfolio';
+@import 'css/footer';
+@import 'css/main';
+@import 'css/responsive';
+@import 'css/single_post';
+@import url('https://fonts.googleapis.com/css?family=Ranchers');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed');
+

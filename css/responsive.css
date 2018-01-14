@@ -1,0 +1,270 @@
+@media screen and (max-width: 920px) {
+	.bk_blog-second_sec-col-9 {
+		width: 100%;
+	}
+	.bk_blog-second_sec-col-3 {
+		display: none;
+	}
+	.bk_home_large-col-3 {
+		display: none;
+	}
+	.bk_home_large-col-9 {
+		width: 100%;
+	}
+	.bk_home_bg-color {
+  		height: 600px
+ 	}
+	.bk_footer-third {
+		display: none;
+	}
+	.bk_footer-col-6 {
+		width: 75%;
+	}
+	.passionate-column {
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.bk_header-container {
+		height: 620px;
+	}
+  /*navigation*/
+
+
+  /*header text slider*/
+    .bk_header-logo-col  {
+  		width: 100%;
+  	}
+  	.bk_header-logo-col1  {
+  		display: none;
+  	}
+  	.bk_home_bg-color {
+  	height: 400px
+ 	}
+  	.bk_header-slider {
+  		width: 100%;
+  		padding:200px  0 0 0;
+  	}
+   	.bk_header-first_text{
+   		font-size: 32px;
+  	}
+  	.bk_header-second_text {
+  		padding-bottom: 13px;
+	    max-width: 75%;
+   		margin: auto;
+	}
+	/*contact*/
+	.bk_contact-col-8 {
+		width: 100%;
+	}
+	.bk_contact-col-8 input {
+		width: 100%;
+	}
+	.bk_contact-col-8 textarea {
+		width: 100%;
+	}
+	.bk_contact-col-4 {
+		height: 400px;
+		text-align: center;
+		width: 100%;
+	}
+  	/*about*/
+  	.bk_about-column {
+		width: 100%;
+		display: inline-table;
+	}
+	.bk_about-text {
+	    font-size: 17px;
+	    padding: 0px 40px 60px 40px;
+	}
+	.bk_about-title {
+		padding-bottom: 0;
+	}
+	.bk_about-image img {
+		padding: 0px 0 0px 0;
+		width: 100%;
+	}
+	/*service*/
+	.bk_graphic_design-container {
+		padding: 15px;
+	}
+	.bk_service-first_column {
+		border-top: unset !important;
+	}
+	.bk_graphic_design-column {
+		width: 100%;
+	}
+	.bk_graphic_design-process1 {
+		width: 100%;
+	}
+	.bk_graphic_process-image {
+		width: 100%;
+	}
+	.bk_service-column {
+		border-right: unset;
+		width: 100%;
+	}
+
+	/*project*/
+	.bk_project-column {
+		text-align: center;
+		display: inline-table;
+		width: 100%;
+	}
+	.bk_project-title {
+		padding: 25px 30px 0 50px;
+	}
+	/*blog*/
+	.bk_blog-row {
+		margin-bottom: 20px;
+	}
+	.bk_blog-column {
+		margin-bottom: 20px;
+		width: 100%;
+		display: inline-table;
+	}
+	.bk_about-text {
+	    padding: 0 30px 0 50px;
+	}
+	/*blogPost=============================*/
+	.bk_blog-first_sec-col-4 {
+		width: 47.5%;
+	}
+	.bk_blog-first_sec-col-12 {
+		width: 98%;
+	}
+
+	/*profolio*/
+	.bk_portfolio-column {
+		width: 200px;
+		display: inline-table;
+	}
+	/*client*/
+	.bk_client-column {
+		width: 50%;
+		display: inline-table;
+	}
+	/*footer*/
+	.bk_footer-first_column {
+		display: none;
+	}
+	.bk_footer-second_column {
+		width: 100%;
+	}
+	.bk_footer-border {
+		min-width: 60%;
+	}
+	.bk_footer-col-6 {
+		display: none;
+	}
+	.bk_footer-col-3 {
+		padding-top: 65px;
+		width: 100%;
+	}
+	.bk_business_card-form-col-3 {
+		margin: 0;
+		width: 100%;
+	}
+	.bk_business_card-form-col-9 {
+		margin: 0;
+		width: 100%;
+	}
+	.bk_business_card-first_section {
+		width: 100%;
+		margin-top: 30px;
+	}
+	.bk_business_card-first_text h1 {
+		font-size: 30px!important;
+	}
+	.bk_business_card-process h3 {
+		font-size: 20px;
+	}
+
+	.bk_business_card-process ul li {
+		border: none;
+	}
+
+	.bk_business_card-size_section {
+		width: 100%;
+	}
+	.bk_business_card-second_sec-part h4 {
+		font-size: 20px !important;
+		padding:20px;
+	}
+	.bk_business_card-size_section img {
+		width: 100%;
+	}
+	.bk_business_card-second_sec-col {
+		width: 50%;
+	}
+}
+@media screen and (max-width: 640px) {
+	.bk_blog-third_sec_col-5 {
+		width: 100%;
+	}
+	.bk_blog-third_sec_col-7 {
+		width: 100%;
+	}
+	.bk_blog-third_sec_text {
+		margin-top: 30px;
+	}
+}
+@media screen and (max-width: 540px) {
+	.bk_project-box {
+		width: 93%;
+	}
+	.recent_post_home-col {
+		width: 100%;
+		display: inline-table;
+	}
+}
+@media screen and (max-width: 480px) {
+	.bk_blog-first_sec-col-4 {
+		width: 98%;
+	}
+	.bk_blog-third_sec_text {
+		padding-left: 0px;
+	}
+	.bk_blog-second_sec_icon ul li {
+		padding: 0 5px;
+	}
+	.bk_header-second_text {
+
+	    max-width: 70%;
+   		margin: auto;
+	}
+	/*about*/
+	
+	.bk_about-detail {
+		text-align: left;
+		padding: 0 0 10px 0;	
+	}
+	.bk_about-image_border {
+		display: none;
+	}
+	.bk_about-image {
+		padding-top: 60px;
+		padding-bottom: 30px;
+	}
+	/*service*/
+	.bk_service-logo_child {
+		width: 85px;
+	}
+	/*client*/
+	.bk_client-column {
+		width: 100%;
+	}
+	.bk_business_card-second_sec-col {
+		width: 100%;
+	}
+}
+@media screen and (max-width: 320px) {
+	.bk_header-container {
+		height: 570px;
+	}
+	.bk_header-first_text{
+   		font-size: 25px;
+  	}
+
+}

@@ -1,0 +1,47 @@
+body {
+	background: #f6f6f6 !important;
+}
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+p {
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	color: grey !important;
+	font-size: 15px;
+}
+ul li {
+	font-family: 'Barlow Semi Condensed', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+	text-transform: uppercase !important;
+	font-family: 'Montserrat', sans-serif !important;
+}
+/*header ================================================S*/
+.border_title {
+	width: 100%;
+	border-bottom: 2px solid black;
+}
+.bk_button_parent {
+	max-width: 250px;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+}
+.bk_button {
+	border-radius: 4px;
+	cursor: pointer;
+	background: rgb(61, 204, 218);
+    border: 1px solid;
+    border-color: rgb(61, 204, 218);
+	color: white;
+	font-size: 12px;
+	padding: 8px 25px 10px 25px;
+	text-transform: uppercase;
+}
+.bk_default-page {
+	margin: 50px 0 50px 0;
+}
